@@ -27,6 +27,7 @@ Database Design
 Wireframes
 
 Assumptions and Limitations
+
 ---
 
 ### Introduction
